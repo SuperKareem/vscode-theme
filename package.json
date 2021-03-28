@@ -1,0 +1,21 @@
+{
+    "name": "nicetheme",
+    "displayName": "NiceTheme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nice Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nice Theme-color-theme.json"
+            }
+        ]
+    }
+}
